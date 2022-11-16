@@ -14,4 +14,6 @@ It has been 3 years since Google Chrome on Linux has this bug: Enabling dark mod
 ``` sudo python chrome_light.py ``` (it'll also ask you for your password)
 
 
+If it's not working for you, try going to chrome://settings/appearance and changing Theme to Classic. 
+
 And that's pretty much it. This is a really simple script, nothing much special about it. I was thinking about creating an UI to run this, but I decided it was not worth the time. Feel free to do so if you think it'll be useful!
