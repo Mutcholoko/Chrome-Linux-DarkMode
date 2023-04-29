@@ -1,5 +1,7 @@
 # Google Chrome Dark Mode Enabler for Linux
 
+Edit: Google has now fixed this, and from version 114 and beyond, this will not be needed anymore. Right now you can use their Dev Builds, but you can also wait for the stable version to drop, which will have these fixes.
+
 It has been 3 years since Google Chrome on Linux has this bug: Enabling dark mode on your system won't affect Chrome's UI. That's something easily fixable, but the Google team decided to completely ignore this issue for years. It is known that you can fix this yourself by creating a conf file, but it is a manual process and sometimes you just wanna change the theme without doing that. With this in mind, I decided to create these two Python scripts that'll do all the work for you. It's not a definitive fix, but it is certainly better than using nano and pasting the flags all the time.
 
 1. Open the terminal and type: 
